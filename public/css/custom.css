@@ -1,0 +1,36 @@
+body{
+	background-image: url('http://fbcmwtx.org/hp_wordpress/wp-content/uploads/2015/12/ko7pE-Imgur.jpg');
+	background-size: 100%;
+}
+#quotes-terpopuler-background{
+}
+.quotes-terpopuler{
+	font-family: 'Lobster';
+	font-size: 25px;
+}
+.isi-quotes-background{
+}
+
+fieldset {
+    font-family: sans-serif;
+    border: 5px solid #474B4A;
+    background: transparent;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+fieldset legend {
+    background: transparent;
+    color: #fff;
+    text-align:center;
+    padding: 5px 10px ;
+    font-size: 32px;
+    border-radius: 5px;
+    box-shadow: 0 0 0 5px #ddd;
+}
+.icon-background {
+    color: #c0ffc0;
+}		
+.sharing-button{
+	cursor: pointer;
+}
